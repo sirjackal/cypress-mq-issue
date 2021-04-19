@@ -20,7 +20,7 @@ The example page links two CSS files. One with and one without `media` attribute
 <link rel="stylesheet" href="css/2.css" media="(min-width:735px)">
 ```
 
-When the test is run via `gulp open` command (with GUI), during
+When the test is run via `cypress open` command (with GUI), during
 the test itself everything seems to be OK. All links are included.
 
 ![All links included well](img/ok.png)
